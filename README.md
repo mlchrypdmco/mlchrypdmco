@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdimco554902-a11y&label=Profile%20views&color=2E5E4E&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mlchrypdmco&label=Profile%20views&color=2E5E4E&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
   <a href="mailto:m.dimco.554902@umindanao.edu.ph"><img src="https://img.shields.io/badge/EMAIL-Contact_Me-2E5E4E?style=for-the-badge&logo=gmail&logoColor=white" alt="EMAIL" /></a>
-  <a href="https://github.com/mdimco554902-a11y"><img src="https://img.shields.io/badge/GITHUB-mdimco554902--a11y-0F2A22?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" /></a>
+  <a href="https://github.com/mlchrypdmco"><img src="https://img.shields.io/badge/GITHUB-mlchrypdmco-0F2A22?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" /></a>
 </p>
 
 ---
@@ -53,12 +53,12 @@
 ### 📊 Journey in Numbers
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdimco554902-a11y&show_icons=true&locale=en&bg_color=0F1E1A&title_color=C9A86A&icon_color=8FB996&text_color=EDE6D6&border_color=2E5E4E" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdimco554902-a11y&show_icons=true&locale=en&layout=compact&bg_color=0F1E1A&title_color=C9A86A&text_color=EDE6D6&border_color=2E5E4E" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mlchrypdmco&show_icons=true&locale=en&bg_color=0F1E1A&title_color=C9A86A&icon_color=8FB996&text_color=EDE6D6&border_color=2E5E4E" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mlchrypdmco&show_icons=true&locale=en&layout=compact&bg_color=0F1E1A&title_color=C9A86A&text_color=EDE6D6&border_color=2E5E4E" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdimco554902-a11y&background=0F1E1A&ring=8FB996&fire=C9A86A&currStreakNum=EDE6D6&sideNums=EDE6D6&currStreakLabel=8FB996&sideLabels=8FB996&dates=EDE6D6&border=2E5E4E" alt="GitHub streak" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mlchrypdmco&background=0F1E1A&ring=8FB996&fire=C9A86A&currStreakNum=EDE6D6&sideNums=EDE6D6&currStreakLabel=8FB996&sideLabels=8FB996&dates=EDE6D6&border=2E5E4E" alt="GitHub streak" />
 </p>
 
 ---
