@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34020007/README.md)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2A22,100:2E5E4E&height=220&section=header&text=Melchor%20Y.%20Dimco&fontSize=52&fontColor=EDE6D6&fontAlignY=36&desc=Frontend%20Developer%20%7C%20Philippines&descAlignY=60&descSize=18&animation=fadeIn" alt="Melchor Y. Dimco" />
 </p>
